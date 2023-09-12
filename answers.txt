@@ -1,0 +1,4 @@
+What is a remote repository?
+
+A remote repository is one held on a remote server such as Github or Gitlab.
+You must use push and pull/fetch to transfer to and from the remote repository.
